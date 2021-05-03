@@ -1,5 +1,5 @@
-document.getElementById('inputa').addEventListener("click", inputa_submit)
+document.getElementById('inputa').addEventListener('click', InputaSubmit)
 
-function inputa_submit (inputa_result) {
-  alert(document.getElementById('inputa_2').value)
+function InputaSubmit (InputaResult) {
+  alert(document.getElementById('inputa_b').value)
 }
